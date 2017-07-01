@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+html{
+   
+    background-color: darkgoldenrod;
+}
+
+body{
+
+	background-color:whitesmoke;
+	margin: 1%;
+    padding: 1%;
+}
+
+header{
+
+       	margin: 1% auto 1% auto;
+        
+
+}
+
+.menu, ul, li {
+
+	   font-size: 120%;
+      
+}
+
+a {
+    
+    color: white;
+    font-family:fantasy;
+}
+
+
+aside li {
+   
+   padding-top: 12%;
+   border: 1px solid white;
+   background-color: darkred;
+}
+
+footer{
+    
+    background-color: black;
+}
+
+small {
+    
+    color: aliceblue;
+    margin-left:5%;
+    margin-top: 10%;
+}
+
+
+footer {
+    
+
+}
+
+.icones {
+    
+  margin-left: 83%;
+}
+
+pagina 2{
+    
+}
+
+.westeros {
+    
+   float: right;
+
+}
+
+pagina4 {
+    
+}
+
+.starkbrasao {
+    
+    float: right;
+}
+
+.lobos {
+    
+    float: right;
+    
+}
+
+.tbrasao {
+    
+    float: right;
+    
+}
+
+.daenerys {
+    
+    float: right;
+}
+
+.lbrasao {
+    
+    float: right
+}
+
+
+.btnmenu {
+    
+    background-color: black;
+    border: none;
+}
+
+.ned {
+    
+    margin-left:
+    
+}
+
+.botao {
+    
+    margin-left: 93%;
+    margin-top: 1%;
+}
+
+.baratheon {
+    
+    float: right;
+}
+
+.dragao2 {
+    
+    float: right;
+}
+
+.patrulha {
+    
+    float: right;
+}
+
+.vagante {
+    
+    float: right;
+}
+
+.trono {
+    
+    float: right;
+}
